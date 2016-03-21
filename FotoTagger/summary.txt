@@ -1,0 +1,2 @@
+Summary for /www/javadecompilers/app/public/data/22.02.16/eb8b9fa3a85f3bee405aeedef61e6dbd/FotoTagger.jar
+Decompiled with CFR 0_110
